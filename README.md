@@ -26,13 +26,14 @@ an agile development process.
 - **Material Design** — UI/UX design guidelines
 
 ## Architecture
+## Architecture
 
-Android Frontend (Kotlin)
-↓
-Firebase Backend
-├── Authentication
-├── Firestore Database
-└── Storage
+    Android Frontend (Kotlin)
+             ↓
+       Firebase Backend
+       ├── Authentication
+       ├── Firestore Database
+       └── Storage
 ## Key Screens
 - 🔐 Login / Register Screen
 - 👤 Student & Tutor Profile Screen
