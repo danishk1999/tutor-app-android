@@ -1,0 +1,202 @@
+<androidx.coordinatorlayout.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".Activity.TutorHomePageActivity">
+
+    <!-- AppBar with Profile Section -->
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/purple"
+        android:padding="16dp"
+        android:theme="@style/ThemeOverlay.Material3.Dark.ActionBar">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center">
+
+            <TextView
+                android:id="@+id/appNameTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="TutionTym"
+                android:textColor="@android:color/white"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/welcomeTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="16dp"
+                android:text="Welcome, "
+                android:textColor="@android:color/white"
+                android:textSize="18sp" />
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/tutorProfilePic"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_marginBottom="16dp"
+                android:src="@drawable/profile_icon"
+                android:scaleType="centerCrop" />
+
+            <TextView
+                android:id="@+id/tutorName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:textColor="@android:color/white"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/tutorRating"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Rating: "
+                android:textColor="@android:color/white"
+                android:textSize="14sp" />
+        </LinearLayout>
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <!-- Content Section -->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/appointmentsRecyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_margin="16dp"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"
+        android:layout_weight="1" />
+
+    <!-- Progress Bar for Appointments -->
+    <ProgressBar
+        android:id="@+id/progressBarAppointments"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:visibility="gone" />
+
+    <!-- Manual Bottom Navigation -->
+    <LinearLayout
+        android:id="@+id/manualBottomNav"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_gravity="bottom"
+        android:orientation="horizontal"
+        android:background="@color/white"
+        android:padding="8dp">
+
+        <!-- Home Button -->
+        <LinearLayout
+            android:id="@+id/homebtn"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:clickable="true"
+            android:focusable="true"
+            android:gravity="center"
+            android:orientation="vertical"
+            tools:ignore="TouchTargetSizeCheck">
+
+            <ImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:contentDescription="Home"
+                android:src="@drawable/home_icon"
+                app:tint="@color/black" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Home"
+                android:textColor="@android:color/black"
+                android:textSize="12sp" />
+        </LinearLayout>
+
+        <!-- Calendar Button -->
+        <LinearLayout
+            android:id="@+id/userCalendarBtn"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:clickable="true"
+            android:focusable="true"
+            android:gravity="center"
+            android:orientation="vertical"
+            tools:ignore="TouchTargetSizeCheck">
+
+            <ImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:contentDescription="Calendar"
+                android:src="@drawable/calendar" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Calendar"
+                android:textColor="@android:color/black"
+                android:textSize="12sp" />
+        </LinearLayout>
+
+        <!-- Messages Button -->
+        <LinearLayout
+            android:id="@+id/navMessages"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:clickable="true"
+            android:focusable="true"
+            android:gravity="center"
+            android:orientation="vertical"
+            tools:ignore="TouchTargetSizeCheck">
+
+            <ImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:contentDescription="Messages"
+                android:src="@drawable/mail" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Messages"
+                android:textColor="@android:color/black"
+                android:textSize="12sp" />
+        </LinearLayout>
+
+        <!-- Profile Button -->
+        <LinearLayout
+            android:id="@+id/profileBtn"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:clickable="true"
+            android:focusable="true"
+            android:gravity="center"
+            android:orientation="vertical"
+            tools:ignore="TouchTargetSizeCheck">
+
+            <ImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:contentDescription="Profile"
+                android:src="@drawable/profile_icon" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Profile"
+                android:textColor="@android:color/black"
+                android:textSize="12sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

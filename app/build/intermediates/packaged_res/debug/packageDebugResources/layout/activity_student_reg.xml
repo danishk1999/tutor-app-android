@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:background="@color/purple"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity.StudentRegActivity">
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="409dp"
+        android:layout_height="609dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView3"
+        app:layout_constraintVertical_bias="1.0"
+        app:srcCompat="@drawable/rect2"
+        tools:ignore="ContentDescription,VisualLintBounds" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="212dp"
+        android:layout_height="193dp"
+        android:layout_marginTop="95dp"
+        android:layout_marginBottom="33dp"
+        app:layout_constraintBottom_toTopOf="@+id/imageView2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/home1"
+        tools:ignore="ContentDescription" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="38dp"
+        android:layout_marginTop="43dp"
+        android:layout_marginEnd="257dp"
+        android:layout_marginBottom="12dp"
+        android:text="@string/tutiontym"
+        android:textColor="@color/white"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/imageView3"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="48dp"
+        android:text="@string/welcome_new_student"
+        android:textColor="@color/black"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/editEmail"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/imageView2" />
+
+    <Button
+        android:id="@+id/RegBtn"
+        android:layout_width="363dp"
+        android:layout_height="57dp"
+        android:backgroundTint="@color/purple"
+        android:text="@string/register_"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editPassword"
+        app:layout_constraintVertical_bias="0.712"
+        tools:ignore="DuplicateSpeakableTextCheck,VisualLintButtonSize" />
+
+    <EditText
+        android:id="@+id/editEmail"
+        android:layout_width="285dp"
+        android:layout_height="48dp"
+        android:layout_marginBottom="176dp"
+        android:hint="@string/email"
+        android:inputType="textEmailAddress"
+        android:textColorHint="#757575"
+        app:layout_constraintBottom_toTopOf="@+id/editPassword"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView5" />
+
+
+    <EditText
+        android:id="@+id/editPassword"
+        android:layout_width="285dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="8dp"
+        android:hint="@string/password"
+        android:inputType="textPassword"
+        android:textColorHint="#757575"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editEmail"
+        tools:ignore="MissingConstraints" />
+
+    <EditText
+        android:id="@+id/editMajor"
+        android:layout_width="285dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="56dp"
+        android:hint="@string/major_"
+        android:textColorHint="#757575"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editEmail"
+        tools:ignore="MissingConstraints" />
+
+    <EditText
+        android:id="@+id/editName"
+        android:layout_width="285dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="104dp"
+        android:hint="@string/name_"
+        android:textColorHint="#757575"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editEmail"
+        tools:ignore="MissingConstraints" />
+
+
+    <Button
+        android:id="@+id/selectPictureBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="152dp"
+        android:backgroundTint="@color/purple"
+        android:text="@string/select_profile_picture"
+        app:layout_constraintEnd_toEndOf="@+id/imageView2"
+        app:layout_constraintHorizontal_bias="0.273"
+        app:layout_constraintStart_toStartOf="@+id/imageView2"
+        app:layout_constraintTop_toBottomOf="@+id/editEmail" />
+
+    <EditText
+        android:id="@+id/editUsername"
+        android:layout_width="285dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="200dp"
+        android:hint="@string/username_"
+        android:textColorHint="#757575"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editEmail"
+        tools:ignore="MissingConstraints" />
+
+    <EditText
+        android:id="@+id/editYear"
+        android:layout_width="285dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="248dp"
+        android:hint="@string/year_"
+        android:textColorHint="#757575"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editEmail"
+        tools:ignore="MissingConstraints" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

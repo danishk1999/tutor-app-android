@@ -1,0 +1,394 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\layout_viewholder_top_tutor2.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\layout\\viewholder_top_tutor2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\drawable_bell.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\drawable\\bell.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\drawable_white_bg_top_corner.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\drawable\\white_bg_top_corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\drawable_message.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\drawable\\message.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\drawable_rounded_edittext.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\drawable\\rounded_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\drawable_calendar_icon.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\drawable\\calendar_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\layout_activity_tutor_reg.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\layout\\activity_tutor_reg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\layout_activity_calendar.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\layout\\activity_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\layout_activity_detail.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\drawable_purple_button_stroke.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\drawable\\purple_button_stroke.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\drawable_book.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\drawable\\book.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\drawable_eye_closed.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\drawable\\eye_closed.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\layout_activity_chat_room.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\layout\\activity_chat_room.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\drawable_home1.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\drawable\\home1.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\drawable_prof5.jpg.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\drawable\\prof5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\layout_activity_student_reg.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\layout\\activity_student_reg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\drawable_error.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\drawable\\error.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\drawable_searchicon.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\drawable\\searchicon.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\drawable_profimage.jpg.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\drawable\\profimage.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\drawable_backicon.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\drawable\\backicon.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\layout_activity_registration.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\layout\\activity_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\drawable_purple_bg.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\drawable\\purple_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\layout_viewholder_top_tutor.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\layout\\viewholder_top_tutor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\drawable_top_rect.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\drawable\\top_rect.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\drawable_notifications.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\drawable\\notifications.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\layout_item_message_sent.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\layout\\item_message_sent.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\drawable_rounded_receive_message.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\drawable\\rounded_receive_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\drawable_reg_frame.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\drawable\\reg_frame.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\drawable_homepage_top_rect.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\drawable\\homepage_top_rect.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\layout_activity_tutor_home_page.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\layout\\activity_tutor_home_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\drawable_rounded_profile_picture.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\drawable\\rounded_profile_picture.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\drawable_ic_placeholder_profile.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\drawable\\ic_placeholder_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\drawable__purple_oval_bg.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\drawable\\_purple_oval_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\drawable_white_bg.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\drawable\\white_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\drawable_closeicon.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\drawable\\closeicon.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\layout_activity_admin_home_page.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\layout\\activity_admin_home_page.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-debug-47:/layout_user_appointment.xml.flat",
+        "source": "com.example.myapplication.app-main-49:/layout/user_appointment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\drawable_linkedin.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\drawable\\linkedin.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\drawable_home_icon.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\drawable\\home_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\drawable_searchbar.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\drawable\\searchbar.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\layout_activity_tutor_profile.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\layout\\activity_tutor_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\layout_activity_top_tutor.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\layout\\activity_top_tutor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\drawable_rect2.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\drawable\\rect2.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\layout_activity_placeholder.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\layout\\activity_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\drawable_check.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\drawable\\check.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\layout_item_inbox.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\layout\\item_inbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\drawable_light_purple_bg.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\drawable\\light_purple_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\drawable_light_purple_bg_full_corner.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\drawable\\light_purple_bg_full_corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\drawable_ic_send.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\drawable\\ic_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\drawable_profile_back.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\drawable\\profile_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\layout_activity_chat_inbox.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\layout\\activity_chat_inbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\drawable_toprect.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\drawable\\toprect.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\drawable_wavedesign.jpg.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\drawable\\wavedesign.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\layout_item_message_received.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\layout\\item_message_received.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\drawable_appointment_indicator.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\drawable\\appointment_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\drawable_mail.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\drawable\\mail.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\drawable_tick.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\drawable\\tick.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\drawable_profile_icon.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\drawable\\profile_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\layout_activity_user_calendar.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\layout\\activity_user_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\drawable_rounded_send_message.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\drawable\\rounded_send_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\drawable_star.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\drawable\\star.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\layout_activity_intro.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\layout\\activity_intro.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\drawable_eye.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\drawable\\eye.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\drawable_rect1.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\drawable\\rect1.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\layout_item_chat.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\layout\\item_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\drawable_experience.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\drawable\\experience.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\drawable_chat_icon.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\drawable\\chat_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\layout_activity_tutor_calendar.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\layout\\activity_tutor_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\drawable_calendar.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\drawable\\calendar.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\layout_viewholder_category.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\layout\\viewholder_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\layout_user_appointment.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\layout\\user_appointment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\drawable_tutor_reg.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\drawable\\tutor_reg.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-debug-47:\\drawable_location_on.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\drawable\\location_on.png"
+    }
+]

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <!-- Back Button -->
+    <ImageView
+        android:id="@+id/bckbtn"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        app:srcCompat="@drawable/backicon" />
+
+    <!-- Title for the Calendar Activity -->
+    <TextView
+        android:id="@+id/calendarTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Your Appointments"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_gravity="center" />
+
+    <!-- Calendar View for selecting dates -->
+    <com.prolificinteractive.materialcalendarview.MaterialCalendarView
+        android:id="@+id/calendarView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        app:mcv_dateTextAppearance="@style/CalendarDateText"
+        app:mcv_selectionColor="@color/accent"
+        app:mcv_showOtherDates="all"
+        app:mcv_weekDayTextAppearance="@style/CalendarWeekDayText" />
+
+    <!-- Appointment Details Container -->
+    <LinearLayout
+        android:id="@+id/appointmentDetailsContainer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:visibility="gone"
+        android:padding="16dp"
+        android:background="@color/grey">
+
+        <!-- Dynamic List of Appointments -->
+        <LinearLayout
+            android:id="@+id/appointmentListContainer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" />
+
+        <!-- Close Button -->
+        <ImageView
+            android:id="@+id/closeButton"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_gravity="end"
+            app:srcCompat="@drawable/closeicon"/>
+
+    </LinearLayout>
+
+</LinearLayout>

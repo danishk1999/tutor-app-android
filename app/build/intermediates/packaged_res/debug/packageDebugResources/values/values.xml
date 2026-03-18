@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#F5F5FF</color>
+    <color name="black">#FF000000</color>
+    <color name="blue">#1C274C</color>
+    <color name="grey">#878787</color>
+    <color name="ic_launcher_background">#5B39FF</color>
+    <color name="purple">#5B39FF</color>
+    <color name="red">#D93A3A</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="_10sp">10sp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="Login">Login</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="any">-</string>
+    <string name="app_name">My Application</string>
+    <string name="are_you_a_student_or_a_tutor">Are you a student or a tutor?</string>
+    <string name="book_an_appointment_with_tutor_via_appointment_get_your_own_schedule">Book an appointment with Tutor. \n via appointment \n get your own schedule</string>
+    <string name="book_my_appointment">Book My Appointment</string>
+    <string name="calendar">calendar</string>
+    <string name="check_calendar">check_calendar</string>
+    <string name="check_homepage">check_homepage\n</string>
+    <string name="check_messages">check_messages</string>
+    <string name="check_profile">check_profile\n</string>
+    <string name="email">Email</string>
+    <string name="emailaddress">emailaddress</string>
+    <string name="experience">Experience</string>
+    <string name="firebase_database_url" translatable="false">https://tutorapp-735f9-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">623411501383</string>
+    <string name="get_started">Get Started</string>
+    <string name="get_started_">Get Started</string>
+    <string name="google_api_key" translatable="false">AIzaSyDpGZV39N7a6Vvq9-nS4SLg7lO6tlGMo3M</string>
+    <string name="google_app_id" translatable="false">1:623411501383:android:7b34a51b945c247f1cd462</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDpGZV39N7a6Vvq9-nS4SLg7lO6tlGMo3M</string>
+    <string name="google_storage_bucket" translatable="false">tutorapp-735f9.appspot.com</string>
+    <string name="hi_john_smith">Hi John Smith</string>
+    <string name="hide_password">Hide Password\n</string>
+    <string name="home">home</string>
+    <string name="home_icon">home-icon</string>
+    <string name="homepage_user_background">homepage_user_background\n</string>
+    <string name="ignore">ignore</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="login">Login</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="logout">logout</string>
+    <string name="major">major</string>
+    <string name="major_">Major</string>
+    <string name="make_an_appointment">Make An Appointment</string>
+    <string name="make_appointment">Make Appointment</string>
+    <string name="messages">messages</string>
+    <string name="more_comfortable_chat_with_tutor">More Comfortable \n Chat WIth Tutor</string>
+    <string name="more_comfortable_chats_with_tutor">More Comfortable \n chats with tutor</string>
+    <string name="name">name</string>
+    <string name="name_">Name</string>
+    <string name="password">Password</string>
+    <string name="pick_time_and_date">Pick Time and Date</string>
+    <string name="professor">Professor</string>
+    <string name="profile">profile</string>
+    <string name="profile_">profile_</string>
+    <string name="profile_info">Profile Info</string>
+    <string name="profile_txt">Profile</string>
+    <string name="project_id" translatable="false">tutorapp-735f9</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="rating">rating</string>
+    <string name="register">Register</string>
+    <string name="register_">Register</string>
+    <string name="searching">searching</string>
+    <string name="see_all">see_all\n</string>
+    <string name="select_profile_picture">Select Profile Picture</string>
+    <string name="select_profile_picture_">Select Profile Picture</string>
+    <string name="show_password">Show Password</string>
+    <string name="sign_in_to_continue">Sign In to Continue</string>
+    <string name="specialization">Specialization</string>
+    <string name="student">student</string>
+    <string name="student_">Student</string>
+    <string name="students">Students</string>
+    <string name="title_activity_calendar_confirmation">CalendarConfirmationActivity</string>
+    <string name="top_tutors">top_tutors</string>
+    <string name="tutiontym">TutionTym</string>
+    <string name="tutor_">Tutor</string>
+    <string name="tutors">Top_Tutors</string>
+    <string name="user">user</string>
+    <string name="username">Username</string>
+    <string name="username_">Username</string>
+    <string name="welcome">welcome\n</string>
+    <string name="welcome_new_student">Welcome New Student</string>
+    <string name="welcome_new_tutor">Welcome New Tutor</string>
+    <string name="year">year</string>
+    <string name="year_">Year</string>
+    <string name="your_subject_s">your_subject_s\n</string>
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="android:statusBarColor">@color/purple</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+    <style name="Base.Theme.MyApplication" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="CalendarDateText">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#000000</item> 
+    </style>
+    <style name="CalendarWeekDayText">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#757575</item> 
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="Theme.MyApplication" parent="Base.Theme.MyApplication"/>
+</resources>

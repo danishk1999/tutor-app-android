@@ -1,0 +1,71 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context="com.example.app.Activity.AdminHomePageActivity">
+
+    <!-- Title -->
+    <TextView
+        android:id="@+id/textViewTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Admin Dashboard"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_gravity="center_horizontal"
+        android:paddingBottom="16dp" />
+
+    <!-- Students Section -->
+    <TextView
+        android:id="@+id/textViewStudents"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Students"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:paddingTop="8dp"
+        android:paddingBottom="4dp" />
+
+    <LinearLayout
+        android:id="@+id/linearLayoutStudents"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="4dp"
+        android:layout_marginBottom="8dp" />
+
+    <Button
+        android:id="@+id/buttonRemoveStudents"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Remove Selected Students"
+        android:layout_marginBottom="16dp" />
+
+    <!-- Tutors Section -->
+    <TextView
+        android:id="@+id/textViewTutors"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tutors"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:paddingTop="8dp"
+        android:paddingBottom="4dp" />
+
+    <LinearLayout
+        android:id="@+id/linearLayoutTutors"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="4dp"
+        android:layout_marginBottom="8dp" />
+
+    <Button
+        android:id="@+id/buttonRemoveTutors"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Remove Selected Tutors" />
+</LinearLayout>

@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-mergeDebugResources-46:\\layout\\viewholder_top_tutor2.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\layout\\viewholder_top_tutor2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-mergeDebugResources-46:\\layout\\item_inbox.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\layout\\item_inbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-mergeDebugResources-46:\\layout\\activity_profile.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-mergeDebugResources-46:\\layout\\activity_tutor_reg.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\layout\\activity_tutor_reg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-mergeDebugResources-46:\\layout\\activity_chat_room.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\layout\\activity_chat_room.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-mergeDebugResources-46:\\layout\\activity_top_tutor.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\layout\\activity_top_tutor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-mergeDebugResources-46:\\layout\\activity_student_reg.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\layout\\activity_student_reg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-mergeDebugResources-46:\\layout\\item_chat.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\layout\\item_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-mergeDebugResources-46:\\layout\\activity_tutor_profile.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\layout\\activity_tutor_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-mergeDebugResources-46:\\layout\\activity_registration.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\layout\\activity_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-mergeDebugResources-46:\\layout\\activity_home.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-mergeDebugResources-46:\\layout\\viewholder_category.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\layout\\viewholder_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-mergeDebugResources-46:\\layout\\user_appointment.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\layout\\user_appointment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-mergeDebugResources-46:\\layout\\activity_admin_home_page.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\layout\\activity_admin_home_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-mergeDebugResources-46:\\layout\\activity_placeholder.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\layout\\activity_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-mergeDebugResources-46:\\layout\\activity_tutor_home_page.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\layout\\activity_tutor_home_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-mergeDebugResources-46:\\layout\\item_message_sent.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\layout\\item_message_sent.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-mergeDebugResources-46:\\layout\\activity_calendar.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\layout\\activity_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-mergeDebugResources-46:\\layout\\viewholder_top_tutor.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\layout\\viewholder_top_tutor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-mergeDebugResources-46:\\layout\\activity_chat_inbox.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\layout\\activity_chat_inbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-mergeDebugResources-46:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-mergeDebugResources-46:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-mergeDebugResources-46:\\layout\\activity_detail.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-mergeDebugResources-46:\\layout\\activity_intro.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\layout\\activity_intro.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-mergeDebugResources-46:\\layout\\activity_user_calendar.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\layout\\activity_user_calendar.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-46:/layout/user_appointment.xml",
+        "source": "com.example.myapplication.app-main-49:/layout/user_appointment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-mergeDebugResources-46:\\layout\\item_message_received.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\layout\\item_message_received.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-mergeDebugResources-46:\\layout\\activity_tutor_calendar.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.9\\com.example.myapplication.app-main-49:\\layout\\activity_tutor_calendar.xml"
+    }
+]

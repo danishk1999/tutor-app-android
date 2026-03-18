@@ -1,0 +1,46 @@
+<!-- item_inbox.xml -->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="8dp">
+
+    <ImageView
+        android:id="@+id/recipientProfileImage"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_marginEnd="8dp"
+        android:contentDescription="@string/select_profile_picture"
+        android:scaleType="centerCrop"
+        android:src="@drawable/ic_placeholder_profile" />
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/recipientName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Recipient Name"
+            android:textAppearance="?attr/textAppearanceListItem" />
+
+        <TextView
+            android:id="@+id/lastMessage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Last Message"
+            android:textAppearance="?attr/textAppearanceCaption" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/timestamp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="end"
+        android:text="12:45 PM"
+        android:textAppearance="?attr/textAppearanceCaption" />
+</LinearLayout>
